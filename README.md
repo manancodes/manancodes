@@ -1,12 +1,12 @@
-##I'm a passionate **Full-Stack Developer** and a **Professional Mentor**. 💻
+## I'm a passionate **Full-Stack Developer** and a **Professional Mentor**. 💻
 
-##I have 3+ years of experience in both front-end and back-end with expertise in React, React-Native, Angular, Node, and Firebase as the primary technologies. 👩‍💻⚛
+## I have 3+ years of experience in both front-end and back-end with expertise in React, React-Native, Angular, Node, and Firebase as the primary technologies. 👩‍💻⚛
 
-##I have also conducted multiple corporate boot camps, where I've managed batches of 20-40 employees both offline and online. 
+## I have also conducted multiple corporate boot camps, where I've managed batches of 20-40 employees both offline and online. 
 
-##Currently working on multiple react and react-native products for customers.
+## Currently working on multiple react and react-native products for customers.
 
-##My current learning roadmap is to become a proficient cloud-native developer. ☁
+## My current learning roadmap is to become a proficient cloud-native developer. ☁
 
 <!--
 **imanansadana/imanansadana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
