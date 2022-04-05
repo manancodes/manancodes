@@ -6,7 +6,7 @@
 
 ## Currently working on multiple react and react-native products for customers.
 
-# My current learning roadmap is to become a proficient cloud-native developer. ☁
+ My current learning roadmap is to become a proficient cloud-native developer. ☁
 
 <!--
 **imanansadana/imanansadana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
