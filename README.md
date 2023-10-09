@@ -5,3 +5,8 @@
 ## I have also conducted multiple corporate boot camps, where I've managed batches of 20-40 employees both offline and online. 
 
 ## Currently working on multiple react and react-native products for customers.
+
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/manancodes/count.svg" />  
+</p>
