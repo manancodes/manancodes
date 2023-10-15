@@ -10,3 +10,6 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/manancodes/count.svg" />  
 </p>
+
+
+[![An image of @manancodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manancodes)](https://holopin.io/@manancodes)
