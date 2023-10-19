@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: manancodes
             # Text on contribution graph 
-            text: MANAN SADANA
+            text: MANAN
        - uses: jasineri/simple-push-action@v1
