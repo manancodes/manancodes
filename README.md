@@ -3,9 +3,9 @@
 </p>
 <h2 align="center">Senior Software Engineer — Web & Mobile</h2> 
 
-<p align="center">Software Engineer with <strong>6+ years of experience</strong> shipping production web and mobile applications.
-Expert in <strong>React, Next.js, and React Native</strong>, with proven ownership of migrations, legacy system
-upgrades, performance optimization, and <strong>App Store / Play Store publishing</strong>. Comfortable owning
+<p align="center">Software Engineer with <strong>6+ years of experience</strong> shipping production web and mobile applications.</p>
+<p align="center">Expert in <strong>React, Next.js, and React Native</strong>, with proven ownership of migrations, legacy system
+upgrades,<br/> performance optimization, and <strong>App Store / Play Store publishing</strong>.</p><p align="center"> Comfortable owning
 features end-to-end in product-focused, remote teams.</p>
 <p align="center">
     <img src="https://github.com/manancodes/manancodes/blob/main/gitartwork.svg" />
